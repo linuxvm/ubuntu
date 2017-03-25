@@ -1,4 +1,5 @@
 #!/bin/sh
+LANG=C
 sudo apt-get update
 sudo apt-get -y install gnome-desktop
 sudo apt-get -y install gedit
